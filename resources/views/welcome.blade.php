@@ -76,11 +76,10 @@
                     @endauth
                 </div>
             @endif
-
+        
             <div class="content">
                 <div class="title m-b-md">
-                    LATIHAN GIT TIM PROJECT
-                    tim jakarta...
+                    ship shop ready 
                 </div>
 
                 <div class="links">
@@ -94,3 +93,4 @@
         </div>
     </body>
 </html>
+
