@@ -76,10 +76,10 @@
                     @endauth
                 </div>
             @endif
-
+        
             <div class="content">
                 <div class="title m-b-md">
-                    TESTING BOS 
+                    ship shop ready 
                 </div>
 
                 <div class="links">
@@ -93,3 +93,4 @@
         </div>
     </body>
 </html>
+
