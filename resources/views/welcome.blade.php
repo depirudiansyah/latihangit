@@ -80,6 +80,7 @@
             <div class="content">
                 <div class="title m-b-md">
                     LATIHAN GIT TIM PROJECT
+                    tim jakarta...
                 </div>
 
                 <div class="links">
