@@ -79,8 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    LATIHAN GIT TIM PROJECT
-                    tim jakarta...
+                    TESTING BOS 
                 </div>
 
                 <div class="links">
